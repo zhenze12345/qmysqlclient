@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/QMysqlClient">
+        <file>quit.png</file>
+        <file>connect.png</file>
+        <file>disconnect.png</file>
+        <file>qt.png</file>
+    </qresource>
+</RCC>

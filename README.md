@@ -1,4 +1,4 @@
 qmysqlclient
 ============
 
-A qt-based mysql client.
+A qt5 baesd mysql client.
